@@ -1,7 +1,7 @@
 {
-  "name": "parcel-reactjs",
+  "name": "parcel-reactjs-modal",
   "version": "1.0.0",
-  "description": "A minimal React.js boilerplate with parcel as bundler",
+  "description": "Simple reactjs modal",
   "main": "index.js",
   "scripts": {
     "start": "parcel ./src/index.html --open"
